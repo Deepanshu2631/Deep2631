@@ -1,7 +1,7 @@
-- 👋 Hi, I’m DEEPANSHU KUSHWAHA
-- 👀 I’m interested in Competitive programming , full Stack Web Development , AI and ML
-- 🌱 I’m currently learning front-end and Backend
-- 💞️ I’m looking to Internships. 
+- 👋 Hi, I’m DEEPANSHU KUSHWAHA.
+- 👀 I’m interested in Competitive programming , full Stack Web Development , AI and ML.
+- 🌱 I’m currently learning OpenCV using Python.
+- 💞️ I’m looking for Internshipsand Job. 
 - 📫 How to reach me through Mail deep.kush2631@gmail.com and through LinkedIn www.linkedin.com/in/deepanshukushwahasgsits
 
 
